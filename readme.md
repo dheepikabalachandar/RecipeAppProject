@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Screenshots](#screenshots)
+
 - [Features](#features)
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
@@ -10,12 +10,7 @@
 - [Technologies Used](#technologies-used)
 - [Live Demo](#live-demo)
 
-- ## Screenshots
- 
- ![Screenshot1](./public/static/images/website1.png);
- ![Screenshot2](./public/static/images/website2.png);
- ![Screenshot3](./public/static/images/website3.png);
- ![Screenshot4](./public/static/images/website4.png);
+-
 
 ## Features
 
